@@ -7,8 +7,13 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: "Home"
+      - href: about.qmd
+        text: "About Me"
+      - href: research.qmd
+        text: "My Research"
+      - href: cv.qmd
+        text: "CV"
 
 format:
   html:
