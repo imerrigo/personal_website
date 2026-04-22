@@ -1,7 +1,11 @@
 ---
-title: "PersonalWebsite"
+title: "Aquatic Ecology in a Disturbed World"
+about:
+  template: marquee
+  image: photos/aerial_photo.jpeg
 ---
 
-This is a Quarto website.
+Hello and welcome to my personal website, I'm happy to have you here! 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+The world can definitely be a disturbing place, but that's not what I mean with this title. I actually quite love our planet and many aspects of the world we have created for ourselves. What I mean here is that I am an ecologist interested in how disturbances (like natural disasters, land-use alterations, and climate change) impact freshwater communities; and let me tell you, there are plenty of disturbances out there... If you would like to learn more feel free to explore my page or reach out to me!
+
